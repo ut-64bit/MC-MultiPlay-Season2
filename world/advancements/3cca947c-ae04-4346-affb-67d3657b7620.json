@@ -1934,15 +1934,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_gray_dye": "2023-02-11 22:44:23 +0900"
-    },
-    "done": true
-  },
   "botania:recipes/botania/mushroom_1": {
     "criteria": {
       "has_item": "2023-02-11 22:31:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2023-02-11 22:44:23 +0900"
     },
     "done": true
   },
