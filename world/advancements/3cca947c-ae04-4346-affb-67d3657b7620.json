@@ -371,15 +371,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2023-02-11 21:37:12 +0900"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/polished_cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-02-11 20:38:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2023-02-11 21:37:12 +0900"
     },
     "done": true
   },
@@ -599,15 +599,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/medium_scope": {
     "criteria": {
       "has_redstone": "2023-02-11 21:00:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
     },
     "done": true
   },
@@ -635,15 +635,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2023-02-11 21:00:28 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-11 20:42:49 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2023-02-11 21:00:28 +0900"
     },
     "done": true
   },
@@ -1094,15 +1094,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/general/common/gold_platform": {
-    "criteria": {
-      "has_gold": "2023-02-11 21:21:38 +0900"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-02-11 20:37:33 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2023-02-11 21:21:38 +0900"
     },
     "done": true
   },
@@ -1394,15 +1394,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2023-02-11 20:56:57 +0900"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-02-11 20:37:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2023-02-11 20:56:57 +0900"
     },
     "done": true
   },
@@ -2615,15 +2615,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-02-11 21:13:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
     },
     "done": true
   },
@@ -3727,15 +3727,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-02-11 21:00:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-02-11 21:21:38 +0900"
     },
     "done": true
   },
