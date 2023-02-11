@@ -1,0 +1,7 @@
+#The radius around a player new Chunks will be generated.
+#Range: 0 ~ 300
+player_distance = 25
+#The radius around the world spawn new Chunks will be generated.
+#Range: 0 ~ 500
+spawn_distance = 100
+

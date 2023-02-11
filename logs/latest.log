@@ -1,0 +1,636 @@
+[112月2023 18:39:57.512] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[112月2023 18:39:57.517] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.4.1 by Oracle Corporation
+[112月2023 18:39:57.656] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Server/Multi%20Season2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[112月2023 18:39:58.120] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Server\Multi Season2\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
+[112月2023 18:39:58.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Server\Multi Season2\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[112月2023 18:39:58.126] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Server\Multi Season2\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[112月2023 18:39:58.128] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Server\Multi Season2\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[112月2023 18:39:58.235] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[112月2023 18:39:59.898] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[112月2023 18:39:59.950] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[112月2023 18:40:00.017] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
+[112月2023 18:40:00.024] [main/WARN] [mixin/]: Reference map 'antiqueatlas-forge-refmap.json' for antiqueatlas.mixins.json could not be read. If this is a development environment you can ignore this message
+[112月2023 18:40:00.049] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[112月2023 18:40:00.082] [main/INFO] [Canary/]: Loaded configuration file for Canary: 106 options available, 0 override(s) found
+[112月2023 18:40:00.089] [main/WARN] [mixin/]: Reference map 'steampowered.refmap.json' for extendedgears.mixins.json could not be read. If this is a development environment you can ignore this message
+[112月2023 18:40:00.749] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipeEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipeEventJS)
+[112月2023 18:40:00.750] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipeEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[112月2023 18:40:07.617] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.1, for MC 1.18.2 with MCP 20220404.173914
+[112月2023 18:40:07.622] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.1 Initialized
+[112月2023 18:40:07.850] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:07.881] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:08.170] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:08.494] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:08.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[112月2023 18:40:08.612] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id antiqueatlas:packet.c2s.marker.put
+[112月2023 18:40:08.655] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id antiqueatlas:packet.c2s.browsing_position.put
+[112月2023 18:40:08.632] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:08.702] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id antiqueatlas:packet.c2s.marker.delete
+[112月2023 18:40:08.804] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id antiqueatlas:packet.c2s.tile.put
+[112月2023 18:40:08.805] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:08.858] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:10.168] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[112月2023 18:40:10.645] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[112月2023 18:40:12.433] [main/INFO] [ru.magistu.siegemachines.SiegeMachines/]: HELLO from Register Block
+[112月2023 18:40:20.909] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:block for mod id enchantinginfuser
+[112月2023 18:40:21.302] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:item for mod id enchantinginfuser
+[112月2023 18:40:21.414] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[112月2023 18:40:21.514] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id enchantinginfuser
+[112月2023 18:40:21.596] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[112月2023 18:40:21.597] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[112月2023 18:40:21.664] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:menu for mod id enchantinginfuser
+[112月2023 18:40:21.970] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Server\Multi Season2\config\siege-machines-specs.toml is not correct. Correcting
+[112月2023 18:40:21.971] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.mortar.projectileSpeed was corrected from 2.5 to its default, 2.5. 
+[112月2023 18:40:21.971] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.mortar.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[112月2023 18:40:21.971] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.culverin.projectileSpeed was corrected from 3.0 to its default, 3.0. 
+[112月2023 18:40:21.971] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.culverin.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[112月2023 18:40:21.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.trebuchet.projectileSpeed was corrected from 2.8 to its default, 2.8. 
+[112月2023 18:40:21.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.trebuchet.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[112月2023 18:40:21.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.catapult.projectileSpeed was corrected from 2.0 to its default, 2.0. 
+[112月2023 18:40:21.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.catapult.inaccuracy was corrected from 0.2 to its default, 0.2. 
+[112月2023 18:40:21.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.ballista.projectileSpeed was corrected from 4.5 to its default, 4.5. 
+[112月2023 18:40:21.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.ballista.inaccuracy was corrected from 0.04 to its default, 0.04. 
+[112月2023 18:40:21.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.battering_ram.projectileSpeed was corrected from 0.0 to its default, 0.0. 
+[112月2023 18:40:21.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key siege_machines.battering_ram.inaccuracy was corrected from 0.5 to its default, 0.5. 
+[112月2023 18:40:21.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.cannonball.mass was corrected from 15.0 to its default, 15.0. 
+[112月2023 18:40:21.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.cannonball.explosionRadius was corrected from 3.0 to its default, 3.0. 
+[112月2023 18:40:21.974] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.stone.mass was corrected from 50.0 to its default, 50.0. 
+[112月2023 18:40:21.974] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.stone.explosionRadius was corrected from 2.0 to its default, 2.0. 
+[112月2023 18:40:21.974] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.giant_stone.mass was corrected from 70.0 to its default, 70.0. 
+[112月2023 18:40:21.975] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key missiles.giant_stone.explosionRadius was corrected from 5.0 to its default, 5.0. 
+[112月2023 18:40:21.979] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file C:\Server\Multi Season2\config\siege-machines-specs.toml is not correct. Correcting
+[112月2023 18:40:22.001] [main/INFO] [Puzzles Lib/]: Loading common config for enchantinginfuser
+[112月2023 18:40:22.007] [modloading-worker-0/INFO] [ru.magistu.siegemachines.SiegeMachines/]: HELLO FROM PREINIT
+[112月2023 18:40:22.008] [modloading-worker-0/INFO] [ru.magistu.siegemachines.SiegeMachines/]: DIRT BLOCK >> minecraft:dirt
+[112月2023 18:40:22.011] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[112月2023 18:40:22.011] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Additions' module.
+[112月2023 18:40:22.018] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[112月2023 18:40:22.029] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[112月2023 18:40:22.035] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
+[112月2023 18:40:22.140] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[112月2023 18:40:22.140] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[112月2023 18:40:22.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cgm
+[112月2023 18:40:22.320] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[112月2023 18:40:22.320] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[112月2023 18:40:22.321] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[112月2023 18:40:22.493] [modloading-worker-0/INFO] [ru.magistu.siegemachines.SiegeMachines/]: Got IMC []
+[112月2023 18:40:22.511] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[112月2023 18:40:22.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.3 Target: 1.3.3
+[112月2023 18:40:22.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[112月2023 18:40:22.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.6.1 Target: null
+[112月2023 18:40:22.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.18.2
+[112月2023 18:40:23.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 9.0+22 Target: 9.0+22
+[112月2023 18:40:23.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[112月2023 18:40:23.914] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[112月2023 18:40:23.980] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+passivepregen (version 1.0.1 -> MISSING)
+Things may not work well.
+[112月2023 18:40:24.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.1 Target: null
+[112月2023 18:40:24.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.18.2/changelog.json
+[112月2023 18:40:24.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.18.2-8.3.1-157 Target: null
+[112月2023 18:40:24.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mlib] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[112月2023 18:40:24.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mlib] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[112月2023 18:40:24.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[112月2023 18:40:24.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[112月2023 18:40:24.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.18.2/update.json
+[112月2023 18:40:25.185] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Server/Multi%20Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2396!/assets/.mcassetsroot' uses unexpected schema
+[112月2023 18:40:25.185] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Server/Multi%20Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2396!/data/.mcassetsroot' uses unexpected schema
+[112月2023 18:40:25.213] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:passivepregen
+[112月2023 18:40:25.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: UP_TO_DATE Current: 5.1.7 Target: null
+[112月2023 18:40:25.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[112月2023 18:40:25.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.1.4 Target: null
+[112月2023 18:40:25.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[112月2023 18:40:25.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.3.5 Target: null
+[112月2023 18:40:25.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[112月2023 18:40:25.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.2 Target: 0.4.2
+[112月2023 18:40:25.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[112月2023 18:40:25.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: AHEAD Current: 3.3.3 Target: null
+[112月2023 18:40:27.487] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[112月2023 18:40:27.488] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[112月2023 18:40:27.491] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.493] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.493] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[112月2023 18:40:27.496] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[112月2023 18:40:27.497] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.498] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.499] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.500] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.502] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:27.503] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[112月2023 18:40:32.134] [Worker-Main-24/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe extendedgears:crafting/large_steel_cogwheel_from_small
+com.google.gson.JsonSyntaxException: Unknown item 'forge:ingots/steel'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:275) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:222) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:143) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:197) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:96) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:81) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:77) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[112月2023 18:40:32.176] [Worker-Main-24/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair
+com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:294) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:285) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[112月2023 18:40:32.233] [Worker-Main-24/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
+[112月2023 18:40:32.295] [Worker-Main-24/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 101 recipes
+[112月2023 18:40:32.298] [Worker-Main-24/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[112月2023 18:40:32.678] [Worker-Main-24/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table extendedgears:blocks/brass_cogwheel
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'extendedgears:brass_cogwheel'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:138) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:456) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:255) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:888) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:17) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[112月2023 18:40:32.689] [Worker-Main-24/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table extendedgears:blocks/large_brass_cogwheel
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'extendedgears:large_brass_cogwheel'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:138) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:456) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:255) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:888) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:17) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[112月2023 18:40:32.829] [Worker-Main-24/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table majruszsdifficulty:gameplay/warden_treasure_loot
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:sculk_catalyst'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:138) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:456) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:255) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:888) ~[forge-1.18.2-40.2.1-universal.jar%23101!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:17) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2396!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) [?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[112月2023 18:40:33.532] [Worker-Main-24/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:progressive_difficulty/warden_treasure_bag_16: Expected item to be an item, was unknown string 'majruszsdifficulty:warden_treasure_bag'
+[112月2023 18:40:33.541] [Worker-Main-24/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:progressive_difficulty/warden_treasure_bag: Expected item to be an item, was unknown string 'majruszsdifficulty:warden_treasure_bag'
+[112月2023 18:40:33.592] [Worker-Main-24/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4526 advancements
+[112月2023 18:40:33.597] [Worker-Main-24/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 0.6379 ms
+[112月2023 18:40:33.607] [Worker-Main-24/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[112月2023 18:40:33.611] [Worker-Main-24/INFO] [minecolonies/]: Loaded 131 recipes for 15 crafters
+[112月2023 18:40:33.612] [Worker-Main-24/INFO] [minecolonies/]: Beginning load of research for University.
+[112月2023 18:40:33.620] [Worker-Main-24/INFO] [minecolonies/]: Loaded 191 recipes for 4 research branches
+[112月2023 18:40:33.628] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 65 dynamic modifiers and 15 modifier redirects in 7.637801 ms
+[112月2023 18:40:33.743] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 4 modifier tags for 10 modifiers in 114.7874 ms
+[112月2023 18:40:33.744] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 48 enchantment to modifier mappings in 0.6706 ms
+[112月2023 18:40:33.748] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 3.166399 ms
+[112月2023 18:40:33.755] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 62 materials in 4.896501 ms
+[112月2023 18:40:33.908] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 152.96431 ms
+[112月2023 18:40:34.028] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 120.21191 ms
+[112月2023 18:40:34.150] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 121.351906 ms
+[112月2023 18:40:34.156] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 28 tool definitions in 6.1756 ms
+[112月2023 18:40:34.159] [Worker-Main-24/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 2.4623 ms
+[112月2023 18:40:35.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[112月2023 18:40:35.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[112月2023 18:40:35.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[112月2023 18:40:35.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[112月2023 18:40:35.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[112月2023 18:40:35.303] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[112月2023 18:40:35.401] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\cgm-server.toml is not correct. Correcting
+[112月2023 18:40:35.401] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldownThreshold was corrected from 0 to its default, 75. 
+[112月2023 18:40:35.473] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[112月2023 18:40:35.478] [Thread-0/WARN] [minecolonies.requestsystem/]: Updated logging config. RS Debug logging enabled: false
+[112月2023 18:40:35.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[112月2023 18:40:35.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[112月2023 18:40:36.155] [Worker-Main-30/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[112月2023 18:40:36.214] [Worker-Main-18/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[112月2023 18:40:36.744] [Worker-Main-18/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[112月2023 18:40:37.212] [Worker-Main-28/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[112月2023 18:40:37.713] [Worker-Main-27/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[112月2023 18:40:38.443] [Worker-Main-18/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[112月2023 18:40:38.712] [Worker-Main-18/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[112月2023 18:40:39.207] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3496 ms
+[112月2023 18:40:39.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.813s)! For help, type "help"
+[112月2023 18:40:39.240] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[112月2023 18:40:39.445] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 39645 bytes (in 4 string chunks with the size of 10000)
+[112月2023 18:40:39.448] [Server thread/INFO] [structurize/]: Trying jar discover: assets/structurize
+[112月2023 18:40:39.450] [Server thread/INFO] [structurize/]: Trying jar discover: assets/minecolonies
+[112月2023 18:40:40.317] [Server thread/INFO] [structurize/]: Load additional huts or decorations from .\structurize/schematics
+[112月2023 18:40:40.318] [Server thread/INFO] [structurize/]: Load cached schematic from .\structurize/cache
+[112月2023 18:40:40.318] [Server thread/INFO] [structurize/]: Load cached schematic from .\structurize/cache
+[112月2023 18:40:40.491] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 11
+[112月2023 18:40:40.492] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 42 42
+[112月2023 18:40:40.492] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[112月2023 18:40:40.497] [Server thread/INFO] [minecolonies/]: Finished discovering food 123 145
+[112月2023 18:40:40.503] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 256
+[112月2023 18:40:40.504] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 324
+[112月2023 18:40:40.505] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 175
+[112月2023 18:40:40.505] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[112月2023 18:40:40.506] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[112月2023 18:40:40.559] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[112月2023 18:40:40.625] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 free_runners_armored, missing knowledge for {1 free_runners=1.0}
+[112月2023 18:40:40.625] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[112月2023 18:40:40.626] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 61 milliseconds
+[112月2023 18:40:49.015] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UT_64bit is 3cca947c-ae04-4346-affb-67d3657b7620
+[112月2023 18:40:52.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4dd70bee
+[112月2023 18:40:52.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UT_64bit[/[0:0:0:0:0:0:0:1]:61246] logged in with entity id 227 at (82.86955959775054, 85.0, 40.95218085134227)
+[112月2023 18:40:52.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit joined the game
+[112月2023 18:40:52.303] [Netty Server IO #1/INFO] [immersiveengineering/]: Recipes for potions: hmag:hmag.harming_3, hmag:hmag.combustion_long, minecraft:long_night_vision, hmag:hmag.kobold, minecraft:leaping, minecraft:poison, minecraft:slowness, minecraft:strong_healing, minecraft:long_fire_resistance, hmag:hmag.ender_rage_long, minecraft:invisibility, minecraft:strong_swiftness, minecraft:strong_strength, hmag:hmag.regeneration_3, minecraft:long_water_breathing, hmag:hmag.ender_rage, minecraft:fire_resistance, minecraft:strong_slowness, minecraft:swiftness, minecraft:strong_harming, minecraft:awkward, minecraft:healing, minecraft:strong_regeneration, hmag:hmag.kobold_strong, minecraft:water_breathing, minecraft:long_invisibility, minecraft:long_weakness, minecraft:long_slowness, minecraft:night_vision, minecraft:water, minecraft:long_strength, hmag:hmag.voracity, minecraft:strength, minecraft:weakness, minecraft:strong_leaping, minecraft:long_poison, minecraft:slow_falling, minecraft:long_swiftness, minecraft:long_leaping, minecraft:long_turtle_master, hmag:hmag.ogre, minecraft:long_regeneration, hmag:hmag.ender_rage_strong, hmag:hmag.healing_3, minecraft:strong_poison, hmag:hmag.combustion, minecraft:strong_turtle_master, minecraft:long_slow_falling, minecraft:turtle_master, minecraft:regeneration, minecraft:harming
+[112月2023 18:40:52.401] [Server thread/INFO] [structurize/]: New Server UUID c565c4fb-5fbf-4086-94ee-087bf7d83ec9
+[112月2023 18:40:52.444] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player UT_64bit
+[112月2023 18:40:52.448] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 18:40:52.448] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 18:40:52.449] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 18:42:44.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Created new objective [Health]]
+[112月2023 18:42:54.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set display slot list to show objective Health]
+[112月2023 18:45:11.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 18:45:14.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 18:45:16.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 18:45:17.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 18:45:26.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Sweet Dreams]
+[112月2023 19:01:00.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Stone Age]
+[112月2023 19:06:14.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 19:06:58.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 19:09:32.349] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[112月2023 19:09:35.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a776a31
+[112月2023 19:09:35.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:51698] logged in with entity id 5143 at (-1.5, 127.0, -8.5)
+[112月2023 19:09:35.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[112月2023 19:09:35.994] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player AKNKSNSYChara
+[112月2023 19:09:35.994] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player AKNKSNSYChara
+[112月2023 19:09:35.995] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player AKNKSNSYChara
+[112月2023 19:09:35.995] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player AKNKSNSYChara
+[112月2023 19:10:06.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 415,254
+[112月2023 19:10:36.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [A Seedy Place]
+[112月2023 19:11:10.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Acquire Hardware]
+[112月2023 19:11:11.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Stone Age]
+[112月2023 19:11:28.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Getting an Upgrade]
+[112月2023 19:11:57.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [What Was That!?]
+[112月2023 19:12:31.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Sky of Beginning]
+[112月2023 19:13:00.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> アカウント作ったから共有してほしい
+[112月2023 19:13:22.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> そういえばクリーパーヘッド拾った
+[112月2023 19:13:34.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [What Was That!?]
+[112月2023 19:16:07.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Make'em Bleed]
+[112月2023 19:18:23.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara is bleeding. AKNKSNSYChara was blown up by Creeper
+[112月2023 19:18:48.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 176 45
+[112月2023 19:19:23.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara was blown up by Creeper
+[112月2023 19:19:40.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 400,200
+[112月2023 19:20:53.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Sweet Dreams]
+[112月2023 19:22:56.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 19:23:06.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Getting an Upgrade]
+[112月2023 19:23:07.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 19:24:32.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 通った時に道端の動物全部殺した
+[112月2023 19:27:01.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Crops of the Wild]
+[112月2023 19:32:59.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Monster Hunter]
+[112月2023 19:34:04.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 14
+[112月2023 19:36:39.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> k
+[112月2023 19:36:43.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ok
+[112月2023 19:39:25.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 今はまだ図ぽぽい
+[112月2023 19:39:40.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ブロック
+[112月2023 19:40:49.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> これどうしよう
+[112月2023 19:40:56.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 消えない
+[112月2023 19:41:34.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> きえた
+[112月2023 19:42:29.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> なんか
+[112月2023 19:42:40.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 出血率を下げるそうびあるっぽい
+[112月2023 19:43:12.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 銅は石で
+[112月2023 19:43:38.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> オスミウム2個
+[112月2023 19:44:50.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Is this... blood?]
+[112月2023 19:45:50.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> これ
+[112月2023 19:46:37.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> これがなんか英文を見る限り出血率を下げるっぽい
+[112月2023 19:46:53.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> あこれbreadじゃねえ
+[112月2023 19:46:58.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> Bleedだ
+[112月2023 19:48:17.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has reached the goal [Plant Food]
+[112月2023 19:48:27.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara is bleeding. AKNKSNSYChara was blown up by Baby Creeper
+[112月2023 19:48:51.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 襲撃イベント
+[112月2023 19:49:17.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 村人が結構いる村だと松明無視で死ぬほど沸きまくる
+[112月2023 19:49:33.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara is bleeding. AKNKSNSYChara was shot by Skeleton
+[112月2023 19:49:41.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UT_64bit moved wrongly!
+[112月2023 19:49:44.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/4319, l='ServerLevel[world]', x=387.46, y=69.00, z=229.82] died, message: 'Cleric bled to death from injuries caused by Zombie'
+[112月2023 19:49:58.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4288, l='ServerLevel[world]', x=385.30, y=69.12, z=230.58] died, message: 'Villager was slain by Zombie'
+[112月2023 19:50:02.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit was slain by Harpy
+[112月2023 19:50:04.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> こっちゴーレムいる
+[112月2023 19:50:33.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara was shot by Skeleton
+[112月2023 19:50:43.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Is this... blood?]
+[112月2023 19:51:03.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara is bleeding. AKNKSNSYChara bled to death from injuries caused by Harpy
+[112月2023 19:51:06.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit was slain by Harpy
+[112月2023 19:51:13.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> あと１秒待ってくれたら蘇生できたのに...
+[112月2023 19:51:24.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 私も
+[112月2023 19:51:31.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4220, l='ServerLevel[world]', x=357.47, y=63.00, z=307.45] died, message: 'Villager was slain by Zombie'
+[112月2023 19:51:36.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> こっちゴーレム
+[112月2023 19:51:57.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has reached the goal [Plant Food]
+[112月2023 19:54:00.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Monster Hunter]
+[112月2023 19:55:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 19:55:20.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 突然手伝えって言われて席外してた
+[112月2023 19:55:31.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Medieval Siege Machines]
+[112月2023 19:55:37.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 19:55:48.431] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/4219, l='ServerLevel[world]', x=366.50, y=65.00, z=263.78] died, message: 'Cleric bled to death from injuries caused by Husk'
+[112月2023 19:55:59.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> この土
+[112月2023 19:56:09.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 普通の土より植物が育つ
+[112月2023 19:56:40.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 私良く
+[112月2023 19:57:06.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 10.231089347996658,-7.246114819281502E-11,-1.0813877029892467
+[112月2023 19:57:06.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 10.614461664726605,-7.313616379178711E-11,-1.1867161535019761
+[112月2023 19:57:06.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 10.997437980417487,-7.337774832194555E-11,-1.294179128343643
+[112月2023 19:57:06.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 11.380054251848719,-7.327827233893913E-11,-1.4035740873370628
+[112月2023 19:57:06.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 11.762344050840284,-7.292300097105908E-11,-1.514715106581633
+[112月2023 19:57:06.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AKNKSNSYChara) moved too quickly! 12.144337588304097,-7.241141020131181E-11,-1.627434853639926
+[112月2023 19:58:10.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Acquire Hardware]
+[112月2023 20:02:17.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Not Today, Thank You]
+[112月2023 20:06:01.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 最初オスミウム装備に使う？
+[112月2023 20:06:01.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 空or地下or地上
+[112月2023 20:06:06.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> どこがいい?
+[112月2023 20:06:23.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 地上で拠点早めに作るのは
+[112月2023 20:06:50.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 今結構深い所行ってる
+[112月2023 20:07:05.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit was blown up by Creeperling
+[112月2023 20:07:10.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> そっちいく
+[112月2023 20:08:05.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit was blown up by Creeperling
+[112月2023 20:08:09.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Take Aim]
+[112月2023 20:08:10.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ()
+[112月2023 20:08:30.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:08:52.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:09:12.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 本番じゃなくてハードモードやん
+[112月2023 20:10:36.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit was shot by Baby Skeleton
+[112月2023 20:10:58.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit was blown up by Creeperling
+[112月2023 20:11:06.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit was burnt to a crisp whilst fighting Creeperling
+[112月2023 20:12:03.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara is bleeding. AKNKSNSYChara was burnt to a crisp whilst fighting Zombie
+[112月2023 20:14:37.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:17:10.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:17:27.631] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50a54090
+[112月2023 20:17:52.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:17:53.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:17:56.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:17:58.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:18:08.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UT_64bit lost connection: Disconnected
+[112月2023 20:18:08.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit left the game
+[112月2023 20:28:39.095] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UT_64bit is 3cca947c-ae04-4346-affb-67d3657b7620
+[112月2023 20:28:42.306] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1699a307
+[112月2023 20:28:42.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UT_64bit[/[0:0:0:0:0:0:0:1]:49354] logged in with entity id 26323 at (377.4133142726973, 71.9375, 215.55926122912476)
+[112月2023 20:28:42.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit joined the game
+[112月2023 20:28:42.355] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player UT_64bit
+[112月2023 20:28:42.355] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 20:28:42.356] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 20:28:42.356] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player UT_64bit
+[112月2023 20:28:47.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> oka
+[112月2023 20:28:52.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit suffocated in a wall
+[112月2023 20:29:04.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 位置ずれ撮る
+[112月2023 20:30:31.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:30:57.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:31:33.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:32:28.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:32:42.339] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[112月2023 20:32:42.341] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[112月2023 20:32:42.341] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player UT_64bit
+[112月2023 20:32:45.388] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[112月2023 20:32:45.388] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[112月2023 20:32:45.389] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player AKNKSNSYChara
+[112月2023 20:32:52.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> k
+[112月2023 20:32:53.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> iine
+[112月2023 20:35:40.602] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[112月2023 20:35:40.603] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[112月2023 20:47:07.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 金
+[112月2023 20:47:40.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:47:55.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Hot Stuff]
+[112月2023 20:48:03.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:48:17.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 20:48:30.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 20:48:51.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Made UT_64bit no longer a server operator]
+[112月2023 20:53:13.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 銀
+[112月2023 20:56:20.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> レッドストーン5
+[112月2023 20:58:03.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 鉄3欲しい
+[112月2023 20:58:12.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> un
+[112月2023 21:04:22.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 拡大
+[112月2023 21:08:42.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> まずい
+[112月2023 21:08:48.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 近くクリーパー
+[112月2023 21:09:30.238] [Server thread/INFO] [antiqueatlas/]: Created new marker #1"Here lies UT_64bit"@(390, 197)
+[112月2023 21:09:30.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit is bleeding. UT_64bit was blown up by Creeper
+[112月2023 21:09:30.253] [Server thread/INFO] [antiqueatlas/]: Sent markers data #1 to player UT_64bit
+[112月2023 21:10:40.604] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[112月2023 21:14:45.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made UT_64bit a server operator
+[112月2023 21:14:51.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 21:15:22.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 21:16:58.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 21:17:16.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ご飯食べる
+[112月2023 21:18:43.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has reached the goal [Advanced Tool Making]
+[112月2023 21:18:44.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 21:21:03.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
+[112月2023 21:21:07.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
+[112月2023 21:21:10.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Made UT_64bit no longer a server operator]
+[112月2023 21:36:44.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ただういま
+[112月2023 21:36:48.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> oka
+[112月2023 21:37:27.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 歯抜けたからおそくなった
+[112月2023 21:40:08.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 42で
+[112月2023 21:40:18.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 42で
+[112月2023 21:44:13.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> そろそろ共有した方がいいかも
+[112月2023 21:52:08.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[112月2023 21:52:08.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[112月2023 21:52:11.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[112月2023 21:52:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[112月2023 21:52:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[112月2023 21:52:12.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UT_64bit lost connection: Disconnected
+[112月2023 21:52:12.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit left the game
+[112月2023 21:52:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[112月2023 21:52:13.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[112月2023 21:52:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[112月2023 21:52:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[112月2023 21:52:13.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[112月2023 21:52:13.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[112月2023 21:52:13.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[112月2023 21:52:13.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
