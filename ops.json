@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3cca947c-ae04-4346-affb-67d3657b7620",
+    "name": "UT_64bit",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
