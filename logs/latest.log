@@ -1,147 +1,77 @@
-[122月2023 21:28:08.844] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[122月2023 21:28:08.848] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.4.1 by Oracle Corporation
-[122月2023 21:28:09.000] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Yuto/Documents/MC-MultiPlay-Season2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[122月2023 21:28:09.413] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Yuto\Documents\MC-MultiPlay-Season2\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
-[122月2023 21:28:09.419] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Yuto\Documents\MC-MultiPlay-Season2\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
-[122月2023 21:28:09.423] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Yuto\Documents\MC-MultiPlay-Season2\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
-[122月2023 21:28:09.427] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Yuto\Documents\MC-MultiPlay-Season2\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
-[122月2023 21:28:09.758] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
-[122月2023 21:28:11.375] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[122月2023 21:28:11.433] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[122月2023 21:28:11.486] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[122月2023 21:28:11.488] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
-[122月2023 21:28:11.560] [main/INFO] [Canary/]: Loaded configuration file for Canary: 106 options available, 1 override(s) found
-[122月2023 21:28:12.130] [main/WARN] [Canary/]: Force-disabling mixin 'world.player_chunk_tick.ChunkMapMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [pluto]) disables it and children
-[122月2023 21:28:12.431] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
-[122月2023 21:28:12.453] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
-[122月2023 21:28:12.453] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
-[122月2023 21:28:12.454] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
-[122月2023 21:28:12.454] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
-[122月2023 21:28:12.458] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[122月2023 21:28:12.459] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[122月2023 21:28:17.348] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.1, for MC 1.18.2 with MCP 20220404.173914
-[122月2023 21:28:17.348] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.1 Initialized
-[122月2023 21:28:17.513] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:17.533] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:17.860] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:17.929] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:17.967] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:17.990] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[122月2023 21:28:18.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[122月2023 21:28:18.421] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[122月2023 21:28:18.836] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[122月2023 21:28:21.460] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[122月2023 21:28:21.880] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[122月2023 21:28:21.880] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[122月2023 21:28:22.390] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Additions' module.
-[122月2023 21:28:22.391] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
-[122月2023 21:28:22.406] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
-[122月2023 21:28:22.409] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
-[122月2023 21:28:22.535] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[122月2023 21:28:22.535] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
-[122月2023 21:28:22.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[122月2023 21:28:22.637] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 64 ms
-[122月2023 21:28:22.838] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[122月2023 21:28:22.838] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[122月2023 21:28:22.840] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[122月2023 21:28:22.841] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[122月2023 21:28:23.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.1 Target: null
-[122月2023 21:28:23.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.19.2/dev/updates.json
-[122月2023 21:28:23.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.2 Target: null
-[122月2023 21:28:23.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[122月2023 21:28:24.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
-[122月2023 21:28:24.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[122月2023 21:28:24.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.1.4 Target: null
-[122月2023 21:28:24.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/raw/mc1.19.2/dev/updates.json
-[122月2023 21:28:24.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Found status: OUTDATED Current: 0.0.3 Target: 0.0.4
-[122月2023 21:28:25.662] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[122月2023 21:28:25.808] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: valkyrienskies:test_chair Expected: 3598 Got: 3630
-[122月2023 21:28:25.808] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: valkyrienskies:test_hinge Expected: 3599 Got: 3631
-[122月2023 21:28:25.809] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: valkyrienskies:test_flap Expected: 3600 Got: 3632
-[122月2023 21:28:25.809] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: valkyrienskies:test_wing Expected: 3601 Got: 3633
-[122月2023 21:28:25.809] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:anchor Expected: 3602 Got: 3634
-[122月2023 21:28:25.809] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:engine Expected: 3603 Got: 3635
-[122月2023 21:28:25.810] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:floater Expected: 3604 Got: 3636
-[122月2023 21:28:25.810] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:ballast Expected: 3605 Got: 3637
-[122月2023 21:28:25.810] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:oak_ship_helm Expected: 3606 Got: 3638
-[122月2023 21:28:25.810] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:spruce_ship_helm Expected: 3607 Got: 3639
-[122月2023 21:28:25.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:birch_ship_helm Expected: 3608 Got: 3640
-[122月2023 21:28:25.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:jungle_ship_helm Expected: 3609 Got: 3641
-[122月2023 21:28:25.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:acacia_ship_helm Expected: 3610 Got: 3642
-[122月2023 21:28:25.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:dark_oak_ship_helm Expected: 3611 Got: 3643
-[122月2023 21:28:25.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:crimson_ship_helm Expected: 3612 Got: 3644
-[122月2023 21:28:25.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:warped_ship_helm Expected: 3613 Got: 3645
-[122月2023 21:28:25.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:balloon Expected: 3614 Got: 3646
-[122月2023 21:28:25.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:white_balloon Expected: 3615 Got: 3647
-[122月2023 21:28:25.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:light_gray_balloon Expected: 3616 Got: 3648
-[122月2023 21:28:25.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:gray_balloon Expected: 3617 Got: 3649
-[122月2023 21:28:25.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:black_balloon Expected: 3618 Got: 3650
-[122月2023 21:28:25.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:red_balloon Expected: 3619 Got: 3651
-[122月2023 21:28:25.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:orange_balloon Expected: 3620 Got: 3652
-[122月2023 21:28:25.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:yellow_balloon Expected: 3621 Got: 3653
-[122月2023 21:28:25.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:lime_balloon Expected: 3622 Got: 3654
-[122月2023 21:28:25.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:green_balloon Expected: 3623 Got: 3655
-[122月2023 21:28:25.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:light_blue_balloon Expected: 3624 Got: 3656
-[122月2023 21:28:25.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:cyan_balloon Expected: 3625 Got: 3657
-[122月2023 21:28:25.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:blue_balloon Expected: 3626 Got: 3658
-[122月2023 21:28:25.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:purple_balloon Expected: 3627 Got: 3659
-[122月2023 21:28:25.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:magenta_balloon Expected: 3628 Got: 3660
-[122月2023 21:28:25.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:pink_balloon Expected: 3629 Got: 3661
-[122月2023 21:28:25.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: vs_eureka:brown_balloon Expected: 3630 Got: 3662
-[122月2023 21:28:25.817] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:test_chair Expected: 4805 Got: 4845
-[122月2023 21:28:25.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:test_hinge Expected: 4806 Got: 4846
-[122月2023 21:28:25.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:test_flap Expected: 4807 Got: 4847
-[122月2023 21:28:25.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:test_wing Expected: 4808 Got: 4848
-[122月2023 21:28:25.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:ship_creator Expected: 4809 Got: 4849
-[122月2023 21:28:25.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:ship_creator_smaller Expected: 4810 Got: 4850
-[122月2023 21:28:25.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: valkyrienskies:ship_assembler Expected: 4811 Got: 4851
-[122月2023 21:28:25.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:anchor Expected: 4812 Got: 4852
-[122月2023 21:28:25.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:engine Expected: 4813 Got: 4853
-[122月2023 21:28:25.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:floater Expected: 4814 Got: 4854
-[122月2023 21:28:25.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:ballast Expected: 4815 Got: 4855
-[122月2023 21:28:25.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:oak_ship_helm Expected: 4816 Got: 4856
-[122月2023 21:28:25.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:spruce_ship_helm Expected: 4817 Got: 4857
-[122月2023 21:28:25.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:birch_ship_helm Expected: 4818 Got: 4858
-[122月2023 21:28:25.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:jungle_ship_helm Expected: 4819 Got: 4859
-[122月2023 21:28:25.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:acacia_ship_helm Expected: 4820 Got: 4860
-[122月2023 21:28:25.821] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:dark_oak_ship_helm Expected: 4821 Got: 4861
-[122月2023 21:28:25.821] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:crimson_ship_helm Expected: 4822 Got: 4862
-[122月2023 21:28:25.821] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:warped_ship_helm Expected: 4823 Got: 4863
-[122月2023 21:28:25.821] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:balloon Expected: 4824 Got: 4864
-[122月2023 21:28:25.822] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:white_balloon Expected: 4825 Got: 4865
-[122月2023 21:28:25.822] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:light_gray_balloon Expected: 4826 Got: 4866
-[122月2023 21:28:25.822] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:gray_balloon Expected: 4827 Got: 4867
-[122月2023 21:28:25.822] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:black_balloon Expected: 4828 Got: 4868
-[122月2023 21:28:25.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:red_balloon Expected: 4829 Got: 4869
-[122月2023 21:28:25.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:orange_balloon Expected: 4830 Got: 4870
-[122月2023 21:28:25.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:yellow_balloon Expected: 4831 Got: 4871
-[122月2023 21:28:25.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:lime_balloon Expected: 4832 Got: 4872
-[122月2023 21:28:25.824] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:green_balloon Expected: 4833 Got: 4873
-[122月2023 21:28:25.824] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:light_blue_balloon Expected: 4834 Got: 4874
-[122月2023 21:28:25.824] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:cyan_balloon Expected: 4835 Got: 4875
-[122月2023 21:28:25.824] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:blue_balloon Expected: 4836 Got: 4876
-[122月2023 21:28:25.825] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:purple_balloon Expected: 4837 Got: 4877
-[122月2023 21:28:25.825] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:magenta_balloon Expected: 4838 Got: 4878
-[122月2023 21:28:25.825] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:pink_balloon Expected: 4839 Got: 4879
-[122月2023 21:28:25.825] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vs_eureka:brown_balloon Expected: 4840 Got: 4880
-[122月2023 21:28:25.826] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: valkyrienskies:ship_mounting_entity Expected: 185 Got: 187
-[122月2023 21:28:27.116] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Yuto/Documents/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
-[122月2023 21:28:27.117] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Yuto/Documents/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
-[122月2023 21:28:27.228] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 56 ms
-[122月2023 21:28:29.644] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[122月2023 21:28:29.646] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[122月2023 21:28:29.649] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.650] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.651] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[122月2023 21:28:29.654] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.656] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.658] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.659] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.661] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:29.662] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[122月2023 21:28:34.588] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[122月2023 21:28:34.617] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[122月2023 21:28:34.627] [Worker-Main4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair
+[132月2023 17:07:35.235] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[132月2023 17:07:35.248] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.5 by Oracle Corporation
+[132月2023 17:07:35.467] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[132月2023 17:07:36.059] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
+[132月2023 17:07:36.063] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[132月2023 17:07:36.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[132月2023 17:07:36.070] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[132月2023 17:07:36.661] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
+[132月2023 17:07:38.891] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[132月2023 17:07:38.956] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[132月2023 17:07:39.082] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[132月2023 17:07:39.086] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
+[132月2023 17:07:39.244] [main/INFO] [Canary/]: Loaded configuration file for Canary: 106 options available, 1 override(s) found
+[132月2023 17:07:39.907] [main/WARN] [Canary/]: Force-disabling mixin 'world.player_chunk_tick.ChunkMapMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [pluto]) disables it and children
+[132月2023 17:07:40.143] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[132月2023 17:07:40.162] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[132月2023 17:07:40.162] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[132月2023 17:07:40.163] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[132月2023 17:07:40.163] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[132月2023 17:07:40.169] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[132月2023 17:07:40.169] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[132月2023 17:07:46.713] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.1, for MC 1.18.2 with MCP 20220404.173914
+[132月2023 17:07:46.713] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.1 Initialized
+[132月2023 17:07:46.817] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:46.864] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:46.951] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:47.199] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:47.290] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:47.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[132月2023 17:07:47.576] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[132月2023 17:07:48.679] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[132月2023 17:07:48.941] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[132月2023 17:07:51.179] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[132月2023 17:07:51.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[132月2023 17:07:51.540] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[132月2023 17:07:52.191] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[132月2023 17:07:52.201] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Additions' module.
+[132月2023 17:07:52.203] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
+[132月2023 17:07:52.260] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[132月2023 17:07:52.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[132月2023 17:07:52.488] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[132月2023 17:07:52.489] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[132月2023 17:07:52.685] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 62 ms
+[132月2023 17:07:52.846] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[132月2023 17:07:52.847] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[132月2023 17:07:52.849] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[132月2023 17:07:52.850] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[132月2023 17:07:53.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.1 Target: null
+[132月2023 17:07:53.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.19.2/dev/updates.json
+[132月2023 17:07:53.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.2 Target: null
+[132月2023 17:07:53.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[132月2023 17:07:53.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[132月2023 17:07:53.985] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[132月2023 17:07:54.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.1.4 Target: null
+[132月2023 17:07:54.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/raw/mc1.19.2/dev/updates.json
+[132月2023 17:07:54.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Found status: OUTDATED Current: 0.0.3 Target: 0.0.4
+[132月2023 17:07:56.134] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[132月2023 17:07:57.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
+[132月2023 17:07:57.239] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
+[132月2023 17:07:57.366] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 74 ms
+[132月2023 17:07:59.304] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[132月2023 17:07:59.305] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[132月2023 17:07:59.308] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.309] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.309] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[132月2023 17:07:59.311] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.312] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.313] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.313] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.315] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:07:59.316] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[132月2023 17:08:03.108] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[132月2023 17:08:03.131] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[132月2023 17:08:03.137] [Worker-Main7/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair
 com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.1-universal.jar%2386!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.1-universal.jar%2386!/:?]
@@ -167,214 +97,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:delete
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[122月2023 21:28:34.650] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[122月2023 21:28:34.660] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[122月2023 21:28:34.679] [Worker-Main4/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
-[122月2023 21:28:34.701] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
-[122月2023 21:28:34.727] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
-[122月2023 21:28:34.734] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
-[122月2023 21:28:34.746] [Worker-Main4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 77 recipes
-[122月2023 21:28:36.431] [Worker-Main4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4145 advancements
-[122月2023 21:28:36.449] [Worker-Main4/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 119 Soft Fluids
-[122月2023 21:28:36.453] [Worker-Main4/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 0.9066 ms
-[122月2023 21:28:36.495] [Worker-Main4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 65 dynamic modifiers and 15 modifier redirects in 10.9312 ms
-[122月2023 21:28:36.648] [Worker-Main4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 4 modifier tags for 10 modifiers in 153.19191 ms
-[122月2023 21:28:36.649] [Worker-Main4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 48 enchantment to modifier mappings in 0.7565 ms
-[122月2023 21:28:36.654] [Worker-Main4/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 4.9751 ms
-[122月2023 21:28:36.664] [Worker-Main4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 57 materials in 5.5292 ms
-[122月2023 21:28:36.786] [Worker-Main4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 121.5967 ms
-[122月2023 21:28:36.909] [Worker-Main4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 123.3677 ms
-[122月2023 21:28:37.025] [Worker-Main4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 115.94231 ms
-[122月2023 21:28:37.033] [Worker-Main4/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 28 tool definitions in 7.1032 ms
-[122月2023 21:28:37.036] [Worker-Main4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 2.9989 ms
-[122月2023 21:28:38.287] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[122月2023 21:28:38.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[122月2023 21:28:38.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[122月2023 21:28:38.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[122月2023 21:28:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[122月2023 21:28:38.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[122月2023 21:28:38.496] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[122月2023 21:28:38.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[122月2023 21:28:38.919] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[122月2023 21:28:38.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[122月2023 21:28:39.488] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[122月2023 21:28:39.500] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[122月2023 21:28:39.997] [Worker-Main6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[122月2023 21:28:40.572] [Worker-Main5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[122月2023 21:28:41.005] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[122月2023 21:28:41.496] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
-[122月2023 21:28:42.092] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3096 ms
-[122月2023 21:28:42.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.478s)! For help, type "help"
-[122月2023 21:28:42.125] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[122月2023 21:28:42.128] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[122月2023 21:29:59.522] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UT_64bit is 3cca947c-ae04-4346-affb-67d3657b7620
-[122月2023 21:30:02.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a52c489
-[122月2023 21:30:02.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UT_64bit[/[0:0:0:0:0:0:0:1]:64872] logged in with entity id 156 at (-148.34898533358754, 65.0, 378.90848372346267)
-[122月2023 21:30:02.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit joined the game
-[122月2023 21:30:11.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made UT_64bit a server operator
-[122月2023 21:30:18.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Gamerule sendCommandFeedback is now set to: false]
-[122月2023 21:32:05.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:32:11.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:32:15.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:32:17.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Diamonds!]
-[122月2023 21:33:51.105] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
-[122月2023 21:33:53.352] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@170ea53b
-[122月2023 21:33:53.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:65026] logged in with entity id 694 at (-153.8323742647274, 63.0, 369.1467358317237)
-[122月2023 21:33:53.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
-[122月2023 21:33:59.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:34:02.676] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player wdon323 is ab718372-b7cc-4b34-b09d-bf9a471ae3cb
-[122月2023 21:34:06.798] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bcde759
-[122月2023 21:34:06.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wdon323[/127.0.0.1:65037] logged in with entity id 737 at (-131.7681809864909, 66.0, 388.3459546834028)
-[122月2023 21:34:06.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 joined the game
-[122月2023 21:34:11.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> すっかり忘れてた補填打ち込んどいた
-[122月2023 21:34:18.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Made UT_64bit no longer a server operator]
-[122月2023 21:34:28.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> mosimo-si
-[122月2023 21:34:48.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> なにそれ(((
-[122月2023 21:34:50.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> チェストに補填入れといた
-[122月2023 21:34:55.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> hou
-[122月2023 21:35:08.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 全、前前前回分
-[122月2023 21:35:34.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> oke
-[122月2023 21:35:37.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Diamonds!]
-[122月2023 21:35:42.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 早すぎ
-[122月2023 21:35:53.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ダイヤ3つが内容
-[122月2023 21:35:53.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 初期アイテム
-[122月2023 21:36:09.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ついでにバックパックを添えて
-[122月2023 21:36:26.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 was shot by Skeleton
-[122月2023 21:36:56.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ええの?
-[122月2023 21:37:00.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> いいよw
-[122月2023 21:37:15.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> だいぶネタに降ったけど
-[122月2023 21:37:46.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> thx
-[122月2023 21:38:06.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 俺はこいつと、旅に出る(ｽｷﾚｯﾄ!!)
-[122月2023 21:38:15.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> w
-[122月2023 21:38:37.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made UT_64bit a server operator
-[122月2023 21:38:40.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:38:59.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:39:42.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> くそ()
-[122月2023 21:40:06.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> sekitan
-[122月2023 21:42:07.397] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 66.99995788850134, 382.2711775396019] -> [-117.12637734413147, 68.79995784081763, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:42:12.444] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 65.04511262846385, 369.80401035618314] -> [-116.44352458575071, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:42:46.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:42:51.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:43:30.195] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.612245305614714, 364.11175217851996] -> [-112.36408991366625, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:43:35.244] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.604236828520534, 359.7321670204401] -> [-118.27794059552252, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:43:40.294] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.61739507414085, 359.0160710778771] -> [-131.60964676446542, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:46:10.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 船できたから荷物まとめちゃって
-[122月2023 21:47:10.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ....おもち?
-[122月2023 21:47:17.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ok
-[122月2023 21:48:17.744] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.543031152166016, 360.2370659224689] -> [-134.44083208590746, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:22.744] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.216215181344545, 353.63977492442154] -> [-142.01921602814636, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:27.747] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.55193577287427, 351.93147856277295] -> [-139.5327957302468, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:32.794] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.595988884720136, 334.84789283946157] -> [-133.80413206666708, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:37.795] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.53893026162432, 334.85060982592404] -> [-133.80393251404166, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:39.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> なんか、大丈夫?
-[122月2023 21:48:42.809] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.44899940426161, 301.5328833106905] -> [-122.25735322013497, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:47.845] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.45652707524611, 298.6322534941137] -> [-121.25478907674551, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:52.845] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.44530438739382, 298.6331879775971] -> [-121.25465988367796, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:48:56.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> すごくずれてる()
-[122月2023 21:48:57.895] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.44623761938361, 298.6328014470637] -> [-121.25554655119777, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:02.895] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.445791978272496, 298.61995013533846] -> [-121.24183263191634, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:07.898] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.467166579278334, 245.39260688610375] -> [-102.82889169082046, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:12.899] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.559719943005746, 194.34684685990214] -> [-85.18187019601464, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:17.948] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.63191072570627, 156.28320551272208] -> [-85.23298936295235, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:22.996] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.50529279552491, 65.60077434405684] -> [-89.72750937566161, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:27.997] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.49009935401587, -3.6506234239786863] -> [-93.19586769863963, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:28.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> !?
-[122月2023 21:49:32.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 海底神殿草
-[122月2023 21:49:33.048] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.67075497749392, -18.522604251070213] -> [-93.96120247654125, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:38.051] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.613073193502096, -84.37392112855534] -> [-43.539421165401016, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:43.054] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.615354718500484, -13.592032341160206] -> [15.013104649077647, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:49:48.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has reached the goal [Earthslime Island]
-[122月2023 21:49:48.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has reached the goal [Earthslime Island]
-[122月2023 21:49:51.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 has reached the goal [Earthslime Island]
-[122月2023 21:50:17.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> kusouzee
-[122月2023 21:50:36.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ついでに大陸
-[122月2023 21:50:51.698] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.54237335540279, 11.270233172923326] -> [12.630652338266373, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:50:56.748] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.54186024715596, 9.996923342347145] -> [12.933924423530698, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:51:01.750] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.489543198600344, -5.858112538233399] -> [20.312351685017347, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:51:06.800] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.66931524330515, -76.56516275821016] -> [63.510170088666115, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:51:30.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 死んだら終わりぞ
-[122月2023 21:51:36.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 was blown up by Creeper
-[122月2023 21:51:38.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> w
-[122月2023 21:51:40.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ww
-[122月2023 21:51:49.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> どこだここ
-[122月2023 21:51:51.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> しょきりすか
-[122月2023 21:51:54.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 初期です
-[122月2023 21:52:00.502] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.54229114962333, -106.24329361505806] -> [70.248614680022, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:05.551] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.54004310203436, -105.03742608055472] -> [68.88800125289708, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:10.598] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.54244143579329, -105.03828674182296] -> [68.88760918751359, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:15.617] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.57255026487353, -111.50926157185543] -> [32.31068359003609, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:17.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> アイテムチェストに入れてもらえるとありがたいです
-[122月2023 21:52:20.650] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.58782085637112, -30.007909583773362] -> [-19.028889487921763, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:25.654] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.62070863188924, 63.77831264780099] -> [-53.42003856548624, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:30.702] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.62282197528646, 160.22213650223995] -> [-83.44467667812066, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:35.702] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.62309038144235, 255.6730471710601] -> [-113.29596053385691, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:40.745] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.63193843918439, 350.3024947076031] -> [-146.20920768329458, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:52:43.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> eeeeeeee
-[122月2023 21:52:50.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 富んだな
-[122月2023 21:53:18.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> 迎えに来たぞー
-[122月2023 21:53:23.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> thx
-[122月2023 21:53:34.695] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.99995921445611, 359.98498521000147] -> [-149.04176506400108, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:53:39.745] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 65.23162338463713, 362.3320381735999] -> [-147.2500633416372, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:53:43.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> w
-[122月2023 21:53:44.795] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, 340.1395815946162] -> [-154.67156510800123, 78.65076204886617, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:53:49.844] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.74686961609762, 335.24934930726886] -> [-152.64549421146512, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:53:54.845] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 65.26415152324378, 332.8795241713524] -> [-149.2820369079709, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:53:59.894] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.582336712323595, 334.1607268229127] -> [-148.80445260182023, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:00.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> tytyo
-[122月2023 21:54:04.895] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.57466802448946, 299.8276834535129] -> [-128.86116542559077, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:09.898] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.607703696411086, 206.86992193028237] -> [-94.9660404233173, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:14.947] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.624464961652464, 115.43316896823151] -> [-52.12162722035114, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:19.952] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.63573063789469, 29.11047257361648] -> [-2.8998846161364167, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:25.019] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.60501594497283, -57.935967603217094] -> [34.18320303062592, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:54:30.048] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 67.0513433664813, -100.28997855074704] -> [76.56253860145807, 68.85134331879759, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:55:19.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 was shot by Skeleton
-[122月2023 21:55:23.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ...
-[122月2023 21:55:24.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> なんだこいつ()
-[122月2023 21:55:29.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 親に呼ばれたので落ち
-[122月2023 21:55:31.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Disconnected
-[122月2023 21:55:31.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
-[122月2023 21:55:33.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> hoi
-[122月2023 21:56:18.747] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.56672323012496, -100.1372741740197] -> [76.97873858362436, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:56:32.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:56:37.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:56:53.996] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.87307464117964, -101.11400953680277] -> [77.20228987932205, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:57:03.395] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.969611138002676, -93.41665581986308] -> [72.54660855978727, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:57:06.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Creative Mode]
-[122月2023 21:57:13.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [UT_64bit: Set own game mode to Survival Mode]
-[122月2023 21:57:19.447] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.00525771080501, -93.42036363109946] -> [72.54286081343889, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:57:27.996] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.3374756714901, -93.45330669730902] -> [72.50903878733516, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:57:32.997] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, -94.61644200453998] -> [70.18013023515367, 75.24928828538587, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:57:36.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> wwwwwww
-[122月2023 21:58:33.396] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 63.99783390280257, -101.52129654586315] -> [64.83679145015776, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:59:45.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> ちょっと操作してみる?
-[122月2023 21:59:51.347] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.57526451440603, -101.59339589998126] -> [64.76841115951538, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 21:59:56.398] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.65958496450907, -112.39514837786555] -> [55.19811445847154, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:01.434] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.73276931862887, -146.6261981819701] -> [15.13993217582145, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:06.468] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.71760978407382, -230.75215117703658] -> [19.77864142209038, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> スペースで浮遊、vで効果
-[122月2023 22:00:11.497] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, -246.71843090723735] -> [56.83990176841363, 77.52603357299394, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:16.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> wwwwwwww
-[122月2023 22:00:16.499] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, -274.6023611148339] -> [151.6634828043826, 79.37350327423086, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:21.547] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, -290.2446049414575] -> [222.70593801140785, 79.36804442578251, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:24.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> やべー
-[122月2023 22:00:26.600] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 68.0, -307.41863884963095] -> [254.77548589929938, 77.03278009441206, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:00:38.895] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 64.00337280737507, -306.33562616817653] -> [255.81825226172805, 68.30000001192093, 1.2290064650000006E7] returning empty list! this might break things
-[122月2023 22:01:00.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit has made the advancement [Acquire Hardware]
-[122月2023 22:01:30.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> otosuyo
-[122月2023 22:01:35.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <UT_64bit> a
-[122月2023 22:01:53.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UT_64bit lost connection: Disconnected
-[122月2023 22:01:53.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: UT_64bit left the game
-[122月2023 22:01:55.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
-[122月2023 22:01:55.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
-[122月2023 22:02:02.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[122月2023 22:02:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[122月2023 22:02:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[122月2023 22:02:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[122月2023 22:02:02.417] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
-[122月2023 22:02:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[122月2023 22:02:03.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[122月2023 22:02:03.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[122月2023 22:02:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[122月2023 22:02:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[122月2023 22:02:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[122月2023 22:02:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[132月2023 17:08:03.153] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[132月2023 17:08:03.163] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[132月2023 17:08:03.196] [Worker-Main7/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
+[132月2023 17:08:03.222] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+[132月2023 17:08:03.245] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+[132月2023 17:08:03.250] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+[132月2023 17:08:03.261] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 77 recipes
+[132月2023 17:08:04.798] [Worker-Main7/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4145 advancements
+[132月2023 17:08:04.822] [Worker-Main7/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 119 Soft Fluids
+[132月2023 17:08:04.828] [Worker-Main7/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 1.2634 ms
+[132月2023 17:08:04.886] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 65 dynamic modifiers and 15 modifier redirects in 19.5331 ms
+[132月2023 17:08:05.010] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 4 modifier tags for 10 modifiers in 124.199905 ms
+[132月2023 17:08:05.010] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 48 enchantment to modifier mappings in 0.7147 ms
+[132月2023 17:08:05.017] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 6.6568 ms
+[132月2023 17:08:05.034] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 57 materials in 8.3579 ms
+[132月2023 17:08:05.152] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 117.359695 ms
+[132月2023 17:08:05.274] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 121.4258 ms
+[132月2023 17:08:05.387] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 113.4058 ms
+[132月2023 17:08:05.392] [Worker-Main7/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 28 tool definitions in 4.8096 ms
+[132月2023 17:08:05.394] [Worker-Main7/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 2.1853 ms
+[132月2023 17:08:06.384] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[132月2023 17:08:06.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[132月2023 17:08:06.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[132月2023 17:08:06.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[132月2023 17:08:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[132月2023 17:08:06.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[132月2023 17:08:06.552] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[132月2023 17:08:06.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[132月2023 17:08:07.934] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[132月2023 17:08:08.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[132月2023 17:08:08.565] [Worker-Main8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[132月2023 17:08:08.569] [Worker-Main6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[132月2023 17:08:09.028] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[132月2023 17:08:09.527] [Worker-Main9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[132月2023 17:08:10.028] [Worker-Main6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[132月2023 17:08:10.527] [Worker-Main7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[132月2023 17:08:11.326] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3299 ms
+[132月2023 17:08:11.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.627s)! For help, type "help"
+[132月2023 17:08:11.354] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[132月2023 17:08:11.356] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[132月2023 17:23:53.144] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[132月2023 17:23:55.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@293a7b63
+[132月2023 17:23:55.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:51134] logged in with entity id 32 at (255.22939340770245, 65.49560756771825, -304.5355902835727)
+[132月2023 17:23:55.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[132月2023 17:27:26.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Best Friends Forever]
+[132月2023 17:29:24.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[132月2023 17:29:24.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[132月2023 17:42:23.533] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@627e909e[id=<null>,name=AKNKSNSYChara,properties={},legacy=false] (/127.0.0.1:61135) lost connection: Disconnected
+[132月2023 17:42:46.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[132月2023 17:42:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[132月2023 17:42:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[132月2023 17:42:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[132月2023 17:42:46.104] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[132月2023 17:42:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[132月2023 17:42:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[132月2023 17:42:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[132月2023 17:42:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[132月2023 17:42:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[132月2023 17:42:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[132月2023 17:42:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

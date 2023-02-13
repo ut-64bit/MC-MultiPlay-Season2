@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2023-02-12 21:53:19 +0900"
@@ -358,6 +364,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2023-02-12 20:54:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2023-02-13 17:27:54 +0900"
     },
     "done": true
   },
@@ -679,6 +691,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-02-12 20:46:32 +0900"
@@ -859,6 +877,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2023-02-12 20:54:28 +0900"
@@ -898,6 +922,12 @@
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2023-02-12 21:20:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2023-02-13 17:27:54 +0900"
     },
     "done": true
   },
@@ -1023,6 +1053,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-02-12 20:47:06 +0900"
@@ -1044,6 +1080,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2023-02-12 21:53:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-02-13 17:27:26 +0900"
     },
     "done": true
   },
@@ -1119,6 +1161,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-02-12 20:48:59 +0900"
@@ -1179,9 +1227,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_mutton": "2023-02-12 21:57:51 +0900"
+      "has_cornflower": "2023-02-12 21:52:04 +0900"
     },
     "done": true
   },
@@ -1191,9 +1239,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
-      "has_cornflower": "2023-02-12 21:52:04 +0900"
+      "has_mutton": "2023-02-12 21:57:51 +0900"
     },
     "done": true
   },
@@ -1212,6 +1260,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-02-12 20:48:59 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/orange_petal_block": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
     },
     "done": true
   },
@@ -1623,6 +1677,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2023-02-12 21:49:09 +0900",
@@ -1746,6 +1806,12 @@
   "create:recipes/create.base/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2023-02-12 21:53:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2023-02-13 17:27:54 +0900"
     },
     "done": true
   },
