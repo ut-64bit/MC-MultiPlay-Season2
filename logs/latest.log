@@ -1,66 +1,175 @@
-[172月2023 00:00:03.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> xaero-waypoint:遺跡:遺:384:67:620:4:false:0:Internal-the-nether-waypoints
-[172月2023 00:00:07.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> thx
-[172月2023 00:01:01.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> あともう少しで装備フル30エンチャだ
-[172月2023 00:01:07.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> てことで
-[172月2023 00:01:17.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 0:00分を過ぎたため落ちんす
-[172月2023 00:01:19.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Disconnected
-[172月2023 00:01:19.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
-[172月2023 00:01:19.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ai
-[172月2023 00:01:24.312] [Server thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineStage/]: Too many game frames in the game frame queue. Is the physics stage broken?
-[172月2023 00:04:33.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Spooky Scary Skeleton]
-[172月2023 00:12:29.553] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player wdon323 is ab718372-b7cc-4b34-b09d-bf9a471ae3cb
-[172月2023 00:12:33.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a444ac8
-[172月2023 00:12:33.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wdon323[/127.0.0.1:63503] logged in with entity id 761885 at (844.8068856338431, 64.0, -112.61111447318474)
-[172月2023 00:12:33.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 joined the game
-[172月2023 00:15:05.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ?
-[172月2023 00:16:46.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> なんかありましたか?
-[172月2023 00:16:54.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 堕ちたんじゃないｎ
-[172月2023 00:17:00.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> きぶんでもどってきました
-[172月2023 00:24:51.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ha
-[172月2023 00:24:58.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 帰ってる途中にもう1個あったんだが
-[172月2023 00:25:01.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ????
-[172月2023 00:25:09.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 近いほうの座標ももらえますか((((
-[172月2023 00:25:12.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 時間返せ
-[172月2023 00:25:53.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> xaero-waypoint:近い方の遺跡:近:283:67:290:4:false:0:Internal-the-nether-waypoints
-[172月2023 00:27:35.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> すでに頭6個ゲット
-[172月2023 00:29:44.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> せっかくなのでウィザー一匹落としときませんか?(((
-[172月2023 00:30:03.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> あと2個取ったら3体分召喚できるからやるか
-[172月2023 00:30:32.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 今まで鉞ずっと武器として使ってたけど木も切れるんやな()
-[172月2023 00:32:09.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> でもハードだからダメージが怖い
-[172月2023 00:34:35.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 8コメ
-[172月2023 00:35:13.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 一気に9,10コメゲットしたので帰る
-[172月2023 00:39:29.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> あぁぁぁぁ
-[172月2023 00:39:33.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 畑作った直後に
-[172月2023 00:39:36.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ネロ言われた
-[172月2023 00:39:40.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> くそが
-[172月2023 00:39:41.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> おちる
-[172月2023 00:39:42.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> nu
-[172月2023 00:39:44.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Disconnected
-[172月2023 00:39:44.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
-[172月2023 00:40:24.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[172月2023 01:05:30.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [What a Deal!]
-[172月2023 01:33:19.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Withering Heights]
-[172月2023 01:42:12.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Inner Arts]
-[172月2023 03:21:10.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Remote Paranoia]
-[172月2023 04:00:02.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
-[172月2023 04:00:02.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
-[172月2023 04:00:07.463] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3edebe66[id=<null>,name=AKNKSNSYChara,properties={},legacy=false] (/127.0.0.1:56232) lost connection: Disconnected
-[172月2023 04:01:19.868] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
-[172月2023 04:01:22.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a4b5d99
-[172月2023 04:01:22.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:56336] logged in with entity id 1240258 at (833.3377420587307, 72.01377959272837, -131.56190585137944)
-[172月2023 04:01:22.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
-[172月2023 04:22:35.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Bring Home the Beacon]
-[172月2023 05:06:15.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
-[172月2023 05:06:15.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
-[172月2023 05:06:33.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[172月2023 05:06:33.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[172月2023 05:06:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[172月2023 05:06:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[172月2023 05:06:33.256] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
-[172月2023 05:06:34.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[172月2023 05:06:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[172月2023 05:06:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[172月2023 05:06:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[172月2023 05:06:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[172月2023 05:06:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[172月2023 05:06:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[172月2023 13:01:05.061] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[172月2023 13:01:05.065] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.5 by Oracle Corporation
+[172月2023 13:01:05.261] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[172月2023 13:01:05.742] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
+[172月2023 13:01:05.745] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[172月2023 13:01:05.748] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[172月2023 13:01:05.751] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\yonez\OneDrive\ドキュメント\MC-MultiPlay-Season2\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[172月2023 13:01:06.245] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
+[172月2023 13:01:08.160] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[172月2023 13:01:08.208] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[172月2023 13:01:08.329] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[172月2023 13:01:08.332] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
+[172月2023 13:01:08.508] [main/INFO] [Canary/]: Loaded configuration file for Canary: 106 options available, 1 override(s) found
+[172月2023 13:01:09.351] [main/WARN] [Canary/]: Force-disabling mixin 'world.player_chunk_tick.ChunkMapMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [pluto]) disables it and children
+[172月2023 13:01:09.753] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[172月2023 13:01:09.780] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[172月2023 13:01:09.781] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[172月2023 13:01:09.781] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[172月2023 13:01:09.782] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[172月2023 13:01:09.785] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[172月2023 13:01:09.785] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[172月2023 13:01:16.761] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.1, for MC 1.18.2 with MCP 20220404.173914
+[172月2023 13:01:16.761] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.1 Initialized
+[172月2023 13:01:16.859] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:16.908] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:17.093] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:17.346] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:17.409] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:17.472] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[172月2023 13:01:17.775] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[172月2023 13:01:19.156] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[172月2023 13:01:19.351] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[172月2023 13:01:22.067] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[172月2023 13:01:22.460] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[172月2023 13:01:22.460] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[172月2023 13:01:23.066] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[172月2023 13:01:23.074] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Additions' module.
+[172月2023 13:01:23.076] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
+[172月2023 13:01:23.096] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[172月2023 13:01:23.268] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[172月2023 13:01:23.268] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[172月2023 13:01:23.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[172月2023 13:01:23.443] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 48 ms
+[172月2023 13:01:23.560] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[172月2023 13:01:23.560] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[172月2023 13:01:23.561] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[172月2023 13:01:23.562] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[172月2023 13:01:24.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.1 Target: null
+[172月2023 13:01:24.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.19.2/dev/updates.json
+[172月2023 13:01:24.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.2 Target: null
+[172月2023 13:01:24.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[172月2023 13:01:25.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[172月2023 13:01:25.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[172月2023 13:01:25.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.1.4 Target: null
+[172月2023 13:01:25.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/raw/mc1.19.2/dev/updates.json
+[172月2023 13:01:25.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Found status: OUTDATED Current: 0.0.3 Target: 0.0.4
+[172月2023 13:01:26.561] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[172月2023 13:01:28.426] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
+[172月2023 13:01:28.428] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yonez/OneDrive/ドキュメント/MC-MultiPlay-Season2/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
+[172月2023 13:01:28.659] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 115 ms
+[172月2023 13:01:31.565] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[172月2023 13:01:31.566] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[172月2023 13:01:31.570] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.572] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.573] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[172月2023 13:01:31.576] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.577] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.577] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.579] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.579] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:31.580] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[172月2023 13:01:38.361] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[172月2023 13:01:38.385] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[172月2023 13:01:38.390] [Worker-Main7/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair
+com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.1-universal.jar%2386!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.1-universal.jar%2386!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:294) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:285) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.1-universal.jar%2386!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[172月2023 13:01:38.409] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[172月2023 13:01:38.419] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[172月2023 13:01:38.439] [Worker-Main7/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
+[172月2023 13:01:38.462] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+[172月2023 13:01:38.488] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+[172月2023 13:01:38.498] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+[172月2023 13:01:38.512] [Worker-Main7/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 77 recipes
+[172月2023 13:01:40.711] [Worker-Main7/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4145 advancements
+[172月2023 13:01:40.744] [Worker-Main7/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 119 Soft Fluids
+[172月2023 13:01:40.752] [Worker-Main7/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 1.5482 ms
+[172月2023 13:01:40.828] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 65 dynamic modifiers and 15 modifier redirects in 27.6098 ms
+[172月2023 13:01:41.007] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 4 modifier tags for 10 modifiers in 179.0043 ms
+[172月2023 13:01:41.008] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 48 enchantment to modifier mappings in 1.1448 ms
+[172月2023 13:01:41.012] [Worker-Main7/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 3.658 ms
+[172月2023 13:01:41.028] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 57 materials in 9.3648 ms
+[172月2023 13:01:41.172] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 143.8093 ms
+[172月2023 13:01:41.322] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 149.9414 ms
+[172月2023 13:01:41.441] [Worker-Main7/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 118.8006 ms
+[172月2023 13:01:41.447] [Worker-Main7/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 28 tool definitions in 5.621 ms
+[172月2023 13:01:41.450] [Worker-Main7/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 2.5838 ms
+[172月2023 13:01:42.755] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[172月2023 13:01:42.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[172月2023 13:01:42.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[172月2023 13:01:42.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[172月2023 13:01:42.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[172月2023 13:01:43.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[172月2023 13:01:43.043] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[172月2023 13:01:43.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[172月2023 13:01:43.944] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[172月2023 13:01:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[172月2023 13:01:44.730] [Worker-Main8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[172月2023 13:01:44.747] [Worker-Main4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[172月2023 13:01:45.071] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[172月2023 13:01:45.570] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[172月2023 13:01:46.070] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[172月2023 13:01:46.569] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[172月2023 13:01:47.070] [Worker-Main5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[172月2023 13:01:47.906] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3839 ms
+[172月2023 13:01:47.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.636s)! For help, type "help"
+[172月2023 13:01:47.949] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[172月2023 13:01:47.952] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[172月2023 13:01:53.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[172月2023 13:01:53.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssssssstop<--[HERE]
+[172月2023 13:01:57.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[172月2023 13:01:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[172月2023 13:01:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[172月2023 13:01:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[172月2023 13:01:57.504] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[172月2023 13:01:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[172月2023 13:01:58.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[172月2023 13:01:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[172月2023 13:01:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[172月2023 13:01:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[172月2023 13:01:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[172月2023 13:01:58.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
