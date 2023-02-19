@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2023-02-15 17:14:22 +0900"
@@ -643,6 +649,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2023-02-19 17:06:24 +0900",
       "earth": "2023-02-13 18:10:08 +0900"
     },
     "done": false
@@ -686,6 +693,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-02-14 16:29:30 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2023-02-19 17:06:24 +0900"
     },
     "done": true
   },
@@ -1277,6 +1290,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2023-02-19 17:22:20 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2023-02-14 19:54:49 +0900"
@@ -1571,6 +1590,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/door": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain_retextured": {
     "criteria": {
       "has_item": "2023-02-14 20:46:58 +0900"
@@ -1848,6 +1873,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/trapdoor": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "has_tomato": "2023-02-15 18:15:42 +0900"
@@ -2075,6 +2106,7 @@
       "large_plate": "2023-02-15 18:54:55 +0900",
       "tough_handle": "2023-02-15 18:51:21 +0900",
       "tool_binding": "2023-02-16 23:12:00 +0900",
+      "rod": "2023-02-19 15:54:06 +0900",
       "pick_head": "2023-02-16 23:12:01 +0900",
       "repair_kit": "2023-02-15 18:09:59 +0900",
       "hammer_head": "2023-02-15 23:56:18 +0900",
@@ -2300,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-02-19 16:11:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2023-02-12 21:22:19 +0900"
@@ -2345,6 +2383,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-02-12 20:51:24 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-02-19 16:04:10 +0900"
     },
     "done": true
   },
@@ -2645,6 +2689,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2023-02-15 17:12:49 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2023-02-19 17:05:49 +0900"
     },
     "done": true
   },
@@ -3299,6 +3349,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2023-02-19 17:06:24 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_white": {
     "criteria": {
       "has_item": "2023-02-15 19:58:27 +0900"
@@ -3434,6 +3490,12 @@
   "create:recipes/create.palettes/cut_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2023-02-14 16:14:03 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/sign": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -3656,6 +3718,12 @@
   "railways:recipes/railways/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2023-02-15 16:43:49 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/stairs": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -4013,6 +4081,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_tconstruct/skyroot": {
+    "criteria": {
+      "has_plank": "2023-02-19 17:26:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2023-02-15 19:10:29 +0900"
@@ -4085,6 +4159,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2023-02-19 17:09:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2023-02-14 17:08:29 +0900"
@@ -4136,6 +4216,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2023-02-14 20:38:03 +0900"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_tconstruct/skyroot": {
+    "criteria": {
+      "has_plank": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -4340,6 +4426,7 @@
       "minecraft:creeper": "2023-02-14 16:10:20 +0900",
       "minecraft:phantom": "2023-02-15 21:05:16 +0900",
       "minecraft:zombified_piglin": "2023-02-14 20:32:13 +0900",
+      "minecraft:wither_skeleton": "2023-02-19 16:10:43 +0900",
       "minecraft:enderman": "2023-02-14 16:13:04 +0900",
       "minecraft:zombie": "2023-02-12 20:52:11 +0900",
       "minecraft:drowned": "2023-02-14 20:36:24 +0900",
@@ -4502,6 +4589,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-02-16 23:29:19 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2023-02-19 17:08:16 +0900"
     },
     "done": true
   },
@@ -4838,6 +4931,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2023-02-16 22:58:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-02-19 16:10:10 +0900"
     },
     "done": true
   },
@@ -5310,6 +5409,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2023-02-19 17:08:16 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-02-15 17:20:53 +0900"
@@ -5634,6 +5739,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-02-19 16:03:08 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scorchia_bricks_from_scorchia_stonecutting": {
     "criteria": {
       "has_scorchia": "2023-02-16 23:29:45 +0900"
@@ -5649,6 +5760,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-02-13 18:16:08 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/slab": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -5739,6 +5856,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2023-02-14 17:00:34 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/button": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -5886,6 +6009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-02-19 16:04:10 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2023-02-15 17:12:49 +0900"
@@ -5895,6 +6024,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2023-02-16 21:27:48 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/cake/sky": {
+    "criteria": {
+      "has_slime": "2023-02-19 17:22:39 +0900"
     },
     "done": true
   },
@@ -6096,6 +6231,12 @@
   "tconstruct:recipes/tconstruct/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2023-02-15 18:04:47 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2023-02-19 17:06:24 +0900"
     },
     "done": true
   },
@@ -6548,6 +6689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-02-19 16:11:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-02-16 23:29:45 +0900"
@@ -6611,6 +6758,12 @@
   "railways:recipes/railways/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2023-02-15 16:43:49 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
@@ -6761,6 +6914,12 @@
   "botania:recipes/botania/quartz_lavender": {
     "criteria": {
       "has_item": "2023-02-16 23:30:29 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2023-02-19 17:06:24 +0900"
     },
     "done": true
   },
@@ -7011,6 +7170,12 @@
   "create:recipes/create.palettes/cut_crimsite_brick_wall_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-02-15 16:43:54 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence_gate": {
+    "criteria": {
+      "has_planks": "2023-02-19 17:26:49 +0900"
     },
     "done": true
   },
