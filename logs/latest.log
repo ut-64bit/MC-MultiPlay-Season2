@@ -1,21 +1,119 @@
-[202月2023 01:55:59.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
-[202月2023 01:55:59.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
-[202月2023 01:56:05.141] [Server thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineStage/]: Too many game frames in the game frame queue. Is the physics stage broken?
-[202月2023 01:56:06.149] [Server thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineStage/]: Too many game frames in the game frame queue. Is the physics stage broken?
-[202月2023 01:56:07.163] [Server thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineStage/]: Too many game frames in the game frame queue. Is the physics stage broken?
-[202月2023 01:56:08.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
-[202月2023 01:56:08.174] [Server thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineStage/]: Too many game frames in the game frame queue. Is the physics stage broken?
-[202月2023 01:56:10.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[202月2023 01:56:10.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: stpstopstop<--[HERE]
-[202月2023 01:56:11.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[202月2023 01:56:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[202月2023 01:56:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[202月2023 01:56:11.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[202月2023 01:56:11.600] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
-[202月2023 01:56:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[202月2023 01:56:12.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[202月2023 01:56:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[202月2023 01:56:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[202月2023 01:56:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[202月2023 01:56:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[202月2023 01:56:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[212月2023 01:14:42.862] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[212月2023 01:14:45.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@56403f99
+[212月2023 01:14:45.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:55430] logged in with entity id 50200 at (837.6649089893558, 64.0, -131.6182742374449)
+[212月2023 01:14:45.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[212月2023 01:40:37.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Eye Spy]
+[212月2023 01:58:25.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[212月2023 02:11:23.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[212月2023 02:23:57.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [The End?]
+[212月2023 02:24:01.596] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[212月2023 02:24:01.597] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[212月2023 02:24:02.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
+[212月2023 02:24:07.706] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:12.707] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:22.709] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:32.698] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:37.708] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:42.710] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:24:52.706] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:01.670] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:07.863] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:16.908] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:23.208] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:32.802] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:37.807] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:44.809] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:25:54.804] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:04.808] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:14.803] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:19.811] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:27.404] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:33.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Imitation Air]
+[212月2023 02:26:37.402] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:47.396] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:26:52.411] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:02.396] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:07.401] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:17.395] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:27.403] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:37.402] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:42.406] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:27:52.404] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:28:02.396] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:28:07.402] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:28:12.407] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:28:20.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Free the End]
+[212月2023 02:28:22.399] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:28:27.406] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[37.0, -2032.0, -5.0] -> [47.0, 2031.0, 5.0] returning empty list! this might break things
+[212月2023 02:37:33.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Heart Shooter]
+[212月2023 04:00:01.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[212月2023 04:00:01.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[212月2023 04:04:16.486] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[212月2023 04:04:18.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ddd0e2
+[212月2023 04:04:18.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:52041] logged in with entity id 85347 at (834.2403863962322, 67.0, -116.26688312070708)
+[212月2023 04:04:18.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[212月2023 05:05:58.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Engineer Gaming]
+[212月2023 09:14:33.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/85361, l='ServerLevel[world]', x=872.48, y=68.00, z=-130.30] died, message: 'Armorer was slain by Zombie'
+[212月2023 11:36:54.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[212月2023 11:38:23.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [Remote Getaway]
+[212月2023 11:39:42.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has reached the goal [Enderslime Island]
+[212月2023 11:42:44.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has made the advancement [The City at the End of the Game]
+[212月2023 11:48:23.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has reached the goal [Sky's the Limit]
+[212月2023 11:50:52.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[212月2023 11:50:52.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[212月2023 13:56:14.444] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player wdon323 is ab718372-b7cc-4b34-b09d-bf9a471ae3cb
+[212月2023 13:56:19.219] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28bae2ce
+[212月2023 13:56:19.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wdon323[/127.0.0.1:56776] logged in with entity id 162099 at (887.1003795439742, 68.0, -120.3948616179429)
+[212月2023 13:56:19.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 joined the game
+[212月2023 13:56:22.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 has made the advancement [Bring Home the Beacon]
+[212月2023 14:01:01.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 was slain by Iron Golem
+[212月2023 14:13:18.175] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[212月2023 14:13:20.411] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6dc3e195
+[212月2023 14:13:20.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:63067] logged in with entity id 165683 at (836.4160595359663, 68.0, -143.86477436715063)
+[212月2023 14:13:20.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[212月2023 14:14:31.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 知らんうちに増えてた()
+[212月2023 14:14:32.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 羽生えた
+[212月2023 14:14:40.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> とんだ
+[212月2023 14:14:55.475] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player wdon323 is ab718372-b7cc-4b34-b09d-bf9a471ae3cb
+[212月2023 14:15:00.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Disconnected
+[212月2023 14:15:00.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
+[212月2023 14:15:00.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d1a5a1e
+[212月2023 14:15:00.281] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[212月2023 14:15:00.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wdon323[/127.0.0.1:63109] logged in with entity id 165878 at (834.594458412134, 69.625, -139.5387022258137)
+[212月2023 14:15:00.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 joined the game
+[212月2023 14:15:16.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 貝瀬の血↓
+[212月2023 14:15:24.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 回線落ち落ち
+[212月2023 14:15:26.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> nu
+[212月2023 14:15:44.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 空飛んでるからあれだね
+[212月2023 14:15:53.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ダッシュできる
+[212月2023 14:15:53.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 解きとめる魔法攻撃がX1.5だ
+[212月2023 14:16:19.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> そういえば
+[212月2023 14:16:23.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> マントってほしい？
+[212月2023 14:16:36.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ほしい()
+[212月2023 14:16:45.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 実は3種類ある
+[212月2023 14:16:49.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 方
+[212月2023 14:16:53.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 報
+[212月2023 14:16:54.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 私がつけてたおは
+[212月2023 14:16:57.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 砲
+[212月2023 14:17:02.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 鵬
+[212月2023 14:17:08.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ダメージを完全無効化するもの
+[212月2023 14:17:22.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> あ、全部のマントは効果を発揮するたびに10秒のチャージが必要
+[212月2023 14:17:30.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> やべ
+[212月2023 14:17:30.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Timed out
+[212月2023 14:17:30.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
+[212月2023 14:17:45.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61c6cd75[id=<null>,name=wdon323,properties={},legacy=false] (/127.0.0.1:63174) lost connection: Disconnected
+[212月2023 14:17:52.912] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a88e1fe[id=<null>,name=wdon323,properties={},legacy=false] (/127.0.0.1:63190) lost connection: Disconnected
+[212月2023 14:21:03.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[212月2023 14:21:03.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[212月2023 14:21:09.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[212月2023 14:21:09.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[212月2023 14:21:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[212月2023 14:21:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[212月2023 14:21:09.582] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[212月2023 14:21:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[212月2023 14:21:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[212月2023 14:21:10.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[212月2023 14:21:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[212月2023 14:21:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[212月2023 14:21:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[212月2023 14:21:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
