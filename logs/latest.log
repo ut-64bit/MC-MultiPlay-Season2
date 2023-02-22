@@ -1,12 +1,65 @@
-[222月2023 00:41:02.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[222月2023 00:41:02.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[222月2023 00:41:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[222月2023 00:41:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[222月2023 00:41:02.359] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
-[222月2023 00:41:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[222月2023 00:41:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[222月2023 00:41:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[222月2023 00:41:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[222月2023 00:41:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[222月2023 00:41:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[222月2023 00:41:03.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[232月2023 00:00:11.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> なにやってるん
+[232月2023 00:00:21.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ダメージドンくらいかなって(((
+[232月2023 00:02:13.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 木炭ありますか?
+[232月2023 00:02:19.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 無い
+[232月2023 00:02:30.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ()
+[232月2023 00:10:14.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> レンチもらえますか?(((
+[232月2023 00:11:44.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 石が大量に欲しい
+[232月2023 00:22:16.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 倉庫 作り方 わすれた
+[232月2023 00:22:27.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> そんなん 知らんがな
+[232月2023 00:28:50.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 has made the advancement [Refined Storage]
+[232月2023 00:31:52.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> Q.ネザークォーツってどこにありますか?
+[232月2023 00:32:57.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> あれちょっと待てよ
+[232月2023 00:33:01.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> これ
+[232月2023 00:33:05.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> バックパックの中に
+[232月2023 00:33:10.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> パーソナルばれるとか入れたら
+[232月2023 00:33:13.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> 最強じゃね?
+[232月2023 00:36:46.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 知らんがな
+[232月2023 00:38:14.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 神秘の花くれ
+[232月2023 00:38:19.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ない
+[232月2023 00:38:26.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 成長を早める花を作る
+[232月2023 00:38:31.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 植物を
+[232月2023 00:39:04.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> 骨粉1、染料4で緑の骨粉出来てそこから神秘の花生える
+[232月2023 00:55:12.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[232月2023 00:55:12.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[232月2023 00:56:23.352] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[232月2023 00:56:25.589] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54244a3
+[232月2023 00:56:25.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:63846] logged in with entity id 106826 at (852.583848702889, 68.75, -120.13012047890784)
+[232月2023 00:56:25.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[232月2023 00:56:58.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[232月2023 00:56:58.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[232月2023 00:58:07.970] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[232月2023 00:58:10.244] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34af6bc
+[232月2023 00:58:10.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:63946] logged in with entity id 107177 at (852.3742952301161, 68.75, -120.04832953190495)
+[232月2023 00:58:10.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[232月2023 01:03:25.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> レンチ頂戴
+[232月2023 01:30:03.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 has made the advancement [Better than a barrel]
+[232月2023 01:31:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> れんちある?(((
+[232月2023 01:31:51.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> thx
+[232月2023 02:05:33.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> あと30分ぐらいで寝る
+[232月2023 02:05:41.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wdon323> ok
+[232月2023 02:20:21.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> シルクタッチ貸してほしい
+[232月2023 02:20:37.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AKNKSNSYChara> ari
+[232月2023 02:24:19.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wdon323 lost connection: Disconnected
+[232月2023 02:24:19.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wdon323 left the game
+[232月2023 02:26:44.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara has reached the goal [Plant Food]
+[232月2023 04:00:02.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[232月2023 04:00:02.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[232月2023 04:35:03.080] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AKNKSNSYChara is 67ad5cc4-0b49-49d6-bb3a-3055486eea7d
+[232月2023 04:35:05.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a06412c
+[232月2023 04:35:05.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKNKSNSYChara[/127.0.0.1:55221] logged in with entity id 140261 at (862.5270476250682, 62.0, -105.47215844354999)
+[232月2023 04:35:05.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara joined the game
+[232月2023 04:53:41.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKNKSNSYChara lost connection: Disconnected
+[232月2023 04:53:41.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AKNKSNSYChara left the game
+[232月2023 04:54:14.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[232月2023 04:54:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[232月2023 04:54:14.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[232月2023 04:54:14.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[232月2023 04:54:14.876] [Physics thread/WARN] [org.valkyrienskies.core.impl.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[232月2023 04:54:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[232月2023 04:54:15.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[232月2023 04:54:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[232月2023 04:54:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[232月2023 04:54:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[232月2023 04:54:15.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[232月2023 04:54:15.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

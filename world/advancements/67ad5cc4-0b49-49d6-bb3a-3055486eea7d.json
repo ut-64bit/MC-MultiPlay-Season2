@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2023-02-22 17:22:08 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/floating_endoflame": {
     "criteria": {
       "has_item": "2023-02-14 16:22:53 +0900"
@@ -485,9 +491,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-02-23 01:09:09 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerwood_planks": {
     "criteria": {
       "has_alt_item": "2023-02-21 03:04:05 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2023-02-23 02:26:44 +0900"
     },
     "done": true
   },
@@ -572,6 +590,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-02-13 18:00:50 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2023-02-22 17:22:08 +0900"
     },
     "done": true
   },
@@ -1227,6 +1251,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-02-23 01:09:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2023-02-17 00:45:20 +0900"
@@ -1598,6 +1628,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2023-02-13 19:20:05 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2023-02-22 17:22:08 +0900"
     },
     "done": true
   },
@@ -2446,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2023-02-23 01:00:13 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-02-14 07:51:22 +0900"
@@ -3151,6 +3193,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-02-14 11:19:25 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_magenta": {
+    "criteria": {
+      "has_item": "2023-02-23 01:05:36 +0900"
     },
     "done": true
   },
@@ -4162,6 +4210,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_fertilizer": {
+    "criteria": {
+      "has_base_block": "2023-02-23 01:00:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2023-02-12 21:12:55 +0900"
@@ -4476,6 +4530,7 @@
   },
   "tconstruct:smeltery/abilities": {
     "criteria": {
+      "silky": "2023-02-23 02:20:29 +0900",
       "luck": "2023-02-14 14:32:14 +0900",
       "pathing": "2023-02-12 21:25:16 +0900",
       "stripping": "2023-02-12 21:00:41 +0900",
@@ -4742,6 +4797,12 @@
       "carrot": "2023-02-12 21:19:31 +0900"
     },
     "done": false
+  },
+  "botania:recipes/botania/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-02-23 01:07:37 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -5977,6 +6038,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_jiyuulia": {
+    "criteria": {
+      "has_item": "2023-02-23 02:07:27 +0900"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "way_sign": "2023-02-17 15:04:30 +0900"
@@ -6436,6 +6503,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
     "criteria": {
       "has_item": "2023-02-14 20:46:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-02-22 23:01:50 +0900"
     },
     "done": true
   },
@@ -7087,6 +7160,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2023-02-22 23:38:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-02-13 18:00:16 +0900"
@@ -7213,6 +7292,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_agricarnation": {
+    "criteria": {
+      "has_item": "2023-02-22 23:38:58 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/fire_rod": {
     "criteria": {
       "has_item": "2023-02-15 22:46:03 +0900"
@@ -7330,6 +7415,12 @@
   "botania:recipes/botania/orange_petal_block": {
     "criteria": {
       "has_item": "2023-02-13 17:28:50 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-02-23 01:05:36 +0900"
     },
     "done": true
   },
@@ -7508,6 +7599,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_cyan": {
+    "criteria": {
+      "has_item": "2023-02-23 01:07:37 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-02-13 18:00:50 +0900"
@@ -7601,6 +7698,12 @@
   "botania:recipes/botania/petal_white": {
     "criteria": {
       "has_item": "2023-02-14 16:01:13 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fertilizer_dye": {
+    "criteria": {
+      "has_the_recipe": "2023-02-23 01:00:43 +0900"
     },
     "done": true
   },
@@ -8258,6 +8361,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2023-02-22 17:22:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-02-12 21:12:25 +0900"
@@ -8630,6 +8739,12 @@
     },
     "done": true
   },
+  "botania:challenge/gaia_guardian_no_armor": {
+    "criteria": {
+      "no_armor": "2023-02-22 18:08:02 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2023-02-14 07:22:40 +0900"
@@ -8795,6 +8910,12 @@
   "create:recipes/create.palettes/layered_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2023-02-20 19:02:00 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_black": {
+    "criteria": {
+      "has_item": "2023-02-23 01:09:09 +0900"
     },
     "done": true
   },
@@ -10288,6 +10409,12 @@
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2023-02-12 20:47:08 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_light_blue": {
+    "criteria": {
+      "has_item": "2023-02-23 01:09:57 +0900"
     },
     "done": true
   },
