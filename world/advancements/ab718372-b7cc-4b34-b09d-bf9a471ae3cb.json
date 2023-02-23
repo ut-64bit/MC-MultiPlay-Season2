@@ -1,4 +1,10 @@
 {
+  "botania:recipes/botania/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2023-02-23 15:36:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-02-12 20:51:24 +0900"
@@ -1133,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2023-02-23 16:05:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2023-02-12 21:52:32 +0900"
@@ -1408,6 +1420,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "nugget": "2023-02-23 16:59:54 +0900",
       "large_plate": "2023-02-15 18:54:55 +0900",
       "tough_handle": "2023-02-15 18:51:21 +0900",
       "bow_limb": "2023-02-21 14:29:56 +0900",
@@ -1993,6 +2006,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/white_detector": {
     "criteria": {
       "refinedstorage:controller": "2023-02-23 00:28:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2023-02-23 20:53:44 +0900"
     },
     "done": true
   },
@@ -2692,6 +2711,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2023-02-23 16:18:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-14 17:01:51 +0900"
@@ -2701,6 +2726,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-02-23 00:28:50 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2023-02-23 15:39:44 +0900"
     },
     "done": true
   },
@@ -3022,9 +3053,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_magenta": {
+    "criteria": {
+      "has_item": "2023-02-23 15:41:43 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2023-02-23 00:28:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-02-23 20:52:22 +0900"
     },
     "done": true
   },
@@ -3198,6 +3241,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2023-02-16 23:32:32 +0900"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2023-02-23 22:36:49 +0900"
     },
     "done": true
   },
@@ -3764,6 +3813,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2023-02-16 23:29:08 +0900"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2023-02-23 15:36:46 +0900"
     },
     "done": true
   },
@@ -4792,6 +4847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-02-23 20:53:38 +0900"
+    },
+    "done": true
+  },
   "create:recipes/food/crafting/curiosities/cake": {
     "criteria": {
       "has_item": "2023-02-15 17:57:05 +0900"
@@ -4900,6 +4961,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/persian.png": "2023-02-23 16:26:44 +0900"
+    },
+    "done": false
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-02-23 00:28:50 +0900"
@@ -5002,6 +5069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2023-02-23 20:53:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-02-16 23:30:29 +0900"
@@ -5011,6 +5084,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2023-02-12 20:48:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2023-02-23 20:53:43 +0900"
     },
     "done": true
   },
@@ -5131,6 +5210,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-02-14 16:29:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-02-23 20:53:45 +0900"
     },
     "done": true
   },
@@ -5347,6 +5432,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2023-02-16 23:30:29 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_magenta": {
+    "criteria": {
+      "has_item": "2023-02-23 15:41:49 +0900"
     },
     "done": true
   },
@@ -5598,6 +5689,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-02-23 16:26:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2023-02-13 18:49:23 +0900"
@@ -5697,6 +5794,12 @@
   "botania:recipes/botania/mana_fluxfield": {
     "criteria": {
       "has_item": "2023-02-20 19:33:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-02-23 22:26:23 +0900"
     },
     "done": true
   },
@@ -6113,6 +6216,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2023-02-23 15:41:49 +0900"
+    },
+    "done": true
+  },
   "tconstruct:foundry/structure": {
     "criteria": {
       "open_foundry": "2023-02-18 15:19:44 +0900"
@@ -6158,6 +6267,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2023-02-13 18:16:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-02-23 20:53:47 +0900"
     },
     "done": true
   },
@@ -6659,6 +6774,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2023-02-23 16:45:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-02-14 20:57:26 +0900"
@@ -6743,6 +6864,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_magenta_double": {
+    "criteria": {
+      "has_alt_item": "2023-02-23 15:41:49 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/part_builder": {
     "criteria": {
       "has_item": "2023-02-14 20:11:01 +0900"
@@ -6788,6 +6915,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-02-16 20:46:22 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/floating_agricarnation": {
+    "criteria": {
+      "has_item": "2023-02-23 16:45:29 +0900"
     },
     "done": true
   },
@@ -6902,6 +7035,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-02-14 16:29:34 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-02-23 15:41:43 +0900"
     },
     "done": true
   },
@@ -8171,6 +8310,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/magenta_petal_block": {
+    "criteria": {
+      "has_item": "2023-02-23 15:41:49 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_asurine_brick_slab_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2023-02-14 17:01:56 +0900"
@@ -8413,6 +8558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-02-23 20:53:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-02-12 20:51:24 +0900"
@@ -8440,6 +8591,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2023-02-20 17:27:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-02-23 20:53:41 +0900"
     },
     "done": true
   },
@@ -8656,6 +8813,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/cyan_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-02-22 23:36:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-02-23 20:53:45 +0900"
     },
     "done": true
   },
@@ -8951,6 +9114,12 @@
   "botania:recipes/botania/conversions/terrasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2023-02-22 18:00:37 +0900"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2023-02-23 22:26:55 +0900"
     },
     "done": true
   },
@@ -9323,6 +9492,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/black_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-02-22 23:36:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-02-23 20:53:28 +0900"
     },
     "done": true
   },

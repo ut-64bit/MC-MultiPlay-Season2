@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-02-23 15:52:47 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2023-02-13 18:17:22 +0900"
@@ -3369,6 +3375,7 @@
       "minecraft:piglin_brute": "2023-02-19 02:53:06 +0900",
       "minecraft:creeper": "2023-02-12 21:15:00 +0900",
       "minecraft:wither": "2023-02-17 01:33:58 +0900",
+      "minecraft:slime": "2023-02-23 22:00:11 +0900",
       "minecraft:phantom": "2023-02-13 18:31:28 +0900",
       "minecraft:zombified_piglin": "2023-02-19 02:19:48 +0900",
       "minecraft:witch": "2023-02-14 18:12:06 +0900",
@@ -5866,6 +5873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-02-23 15:52:47 +0900"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_minecraft/oak": {
     "criteria": {
       "has_plank": "2023-02-12 20:47:06 +0900"
@@ -6173,6 +6186,12 @@
   "botania:recipes/botania/mana_fluxfield": {
     "criteria": {
       "has_item": "2023-02-14 15:24:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-02-23 22:26:42 +0900"
     },
     "done": true
   },
@@ -8451,6 +8470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-02-23 15:52:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2023-02-14 09:57:09 +0900"
@@ -8688,6 +8713,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2023-02-17 14:47:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-02-23 15:52:47 +0900"
     },
     "done": true
   },
