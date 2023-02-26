@@ -10,7 +10,7 @@
             "item": "minecraft:stick"
         },
         "X": {
-            "item": "minecraft:iron_nugget"
+            "item": "minecraft:iron_ingot"
         },
         "Y": {
             "item": "minecraft:feather"
@@ -18,6 +18,6 @@
     },
     "result": {
         "item": "minecraft:arrow",
-        "count": 4
+        "count": 2
     }
 }
