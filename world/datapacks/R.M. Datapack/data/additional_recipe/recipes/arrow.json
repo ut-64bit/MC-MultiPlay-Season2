@@ -1,23 +1,24 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "X",
-        "#",
-        "Y"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:stick"
-        },
-        "X": {
-            "item": "minecraft:iron_ingot"
-        },
-        "Y": {
-            "item": "minecraft:feather"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "arrow",
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
     },
-    "result": {
-        "item": "minecraft:arrow",
-        "count": 2
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "minecraft:feather"
     }
+  },
+  "result": {
+    "item": "minecraft:arrow",
+    "count": 2
+  }
 }
