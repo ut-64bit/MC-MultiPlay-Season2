@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2023-02-27 20:25:25 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
     "criteria": {
       "has_item": "2023-02-15 18:06:20 +0900"
@@ -3320,6 +3326,7 @@
       "minecraft:creeper": "2023-02-14 16:10:20 +0900",
       "minecraft:phantom": "2023-02-15 21:05:16 +0900",
       "minecraft:zombified_piglin": "2023-02-14 20:32:13 +0900",
+      "minecraft:witch": "2023-02-27 17:50:52 +0900",
       "minecraft:wither_skeleton": "2023-02-19 16:10:43 +0900",
       "minecraft:enderman": "2023-02-14 16:13:04 +0900",
       "minecraft:zombie": "2023-02-12 20:52:11 +0900",
@@ -3663,6 +3670,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2023-02-23 00:28:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2023-02-27 20:25:25 +0900"
     },
     "done": true
   },
@@ -4137,6 +4150,12 @@
   "create:recipes/create.palettes/cut_veridium_brick_wall_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2023-02-15 19:58:11 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2023-02-27 18:00:27 +0900"
     },
     "done": true
   },
@@ -5291,6 +5310,12 @@
   "create:recipes/create.base/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2023-02-17 22:11:11 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
+    "criteria": {
+      "has_shield": "2023-02-27 17:45:32 +0900"
     },
     "done": true
   },
@@ -7227,6 +7252,12 @@
     },
     "done": false
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2023-02-27 18:37:19 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2023-02-14 23:00:59 +0900"
@@ -8655,6 +8686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2023-02-27 20:25:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2023-02-12 20:49:15 +0900"
@@ -8900,6 +8937,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-02-12 20:49:41 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2023-02-27 18:37:18 +0900"
     },
     "done": true
   },

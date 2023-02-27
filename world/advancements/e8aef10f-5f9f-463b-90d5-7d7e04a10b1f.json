@@ -1225,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-02-27 18:51:20 +0900"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2023-02-18 23:08:19 +0900"
@@ -1366,6 +1372,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-02-24 20:57:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-02-27 18:51:19 +0900"
     },
     "done": true
   },
@@ -1954,6 +1966,12 @@
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-02-16 21:58:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-02-27 18:51:19 +0900"
     },
     "done": true
   },
@@ -3684,6 +3702,7 @@
       "minecraft:taiga": "2023-02-16 22:13:28 +0900",
       "minecraft:deep_ocean": "2023-02-16 21:16:36 +0900",
       "minecraft:frozen_river": "2023-02-18 22:27:37 +0900",
+      "minecraft:birch_forest": "2023-02-27 18:13:58 +0900",
       "minecraft:beach": "2023-02-16 21:11:36 +0900",
       "minecraft:river": "2023-02-16 21:27:32 +0900",
       "minecraft:stony_shore": "2023-02-18 22:21:52 +0900",
@@ -3808,6 +3827,12 @@
   "create:recipes/create.palettes/cut_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-02-16 21:50:02 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_black_double": {
+    "criteria": {
+      "has_item": "2023-02-27 18:10:17 +0900"
     },
     "done": true
   },
